@@ -1,0 +1,28 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{3B3F09A1-B93D-48BB-A7F8-922C4F21C128}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Estado de FinalAbigail">
+    <Files>
+      <File FileName="FinalAbigail/Program.cs" Line="13" Column="1" />
+      <File FileName="FinalAbigail/Clases/LeerNombres.cs" Line="47" Column="10" />
+      <File FileName="Estado de FinalAbigail" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalAbigail" expanded="True">
+            <Node name="FinalAbigail" expanded="True">
+              <Node name="Clases" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FinalAbigail FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
